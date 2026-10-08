@@ -1,0 +1,8 @@
+# Media stays out of git: clips are large, refs are Colby's photos.
+storm-over-colby/refs/*
+storm-over-colby/clips/*
+storm-over-colby/audio/*
+storm-over-colby/out/*
+storm-over-colby/build/
+!storm-over-colby/*/.gitkeep
+.DS_Store
